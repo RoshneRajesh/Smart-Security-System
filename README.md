@@ -48,7 +48,7 @@ An Arduino and ESP8266-based IoT Smart Security System designed to safeguard a h
 ## 🚀 How to Run
 
 1. **Arduino Uno:**
-   * Open `src/Arduino_Uno/Arduino_Uno.ino` in the Arduino IDE.
+   * Open `src/Arduino_Uno/Arduino_Uno.ino` in the Arduino IDE
    * Install the `MFRC522`, `Keypad`, and `Servo` libraries via the Library Manager.
    * Upload to the Arduino Uno.
 2. **ESP8266:**
