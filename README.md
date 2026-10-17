@@ -4,7 +4,6 @@ An Arduino and ESP8266-based IoT Smart Security System designed to safeguard a h
 
 ## 👥 Team Members
 *   Krishna Priya Gopalan (BL.SC.U4CSE24224)
-*   Rohan Anand (BL.SC.U4CSE24240)
 *   Roshne Rajesh (BL.SC.U4CSE24241)
 
 **Course:** 23CSE201 - Procedural Programming using C  
@@ -59,7 +58,6 @@ An Arduino and ESP8266-based IoT Smart Security System designed to safeguard a h
    * Upload to the NodeMCU.
 
 ## 📸 Outputs
-*(Add your screenshots from the report here)*
 *   **Serial Monitor:** Shows authentication status and PIN entry.
 *   **Telegram Bot:** Sends "Bot started up" and "Motion detected!!" messages.
 
